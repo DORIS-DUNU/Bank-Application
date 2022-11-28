@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4031b3cc-5773-46d1-9340-b08ef6e14ed4": {
+      "ProjectGuid": "4031b3cc-5773-46d1-9340-b08ef6e14ed4",
+      "DisplayName": "BankAppUI",
+      "ColorIndex": 0
+    },
+    "ad8be985-91c7-45d7-b3c3-698c36cc8fa5": {
+      "ProjectGuid": "ad8be985-91c7-45d7-b3c3-698c36cc8fa5",
+      "DisplayName": "BankAppTask",
+      "ColorIndex": 1
+    },
+    "8490c8de-c4de-4b14-930e-1b65b98774e8": {
+      "ProjectGuid": "8490c8de-c4de-4b14-930e-1b65b98774e8",
+      "DisplayName": "BankAppTest",
+      "ColorIndex": 2
+    },
+    "de6e4656-6375-4ec5-a241-49f59bc150f9": {
+      "ProjectGuid": "de6e4656-6375-4ec5-a241-49f59bc150f9",
+      "DisplayName": "BankAppNuitTest",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

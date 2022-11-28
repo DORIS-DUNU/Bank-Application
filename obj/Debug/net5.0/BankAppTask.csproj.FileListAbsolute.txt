@@ -1,0 +1,52 @@
+C:\Users\hp\source\repos\API\BankAppTask\obj\Debug\net5.0\BankAppTask.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\API\BankAppTask\obj\Debug\net5.0\BankAppTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\API\BankAppTask\obj\Debug\net5.0\BankAppTask.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\API\BankAppTask\obj\Debug\net5.0\BankAppTask.AssemblyInfo.cs
+C:\Users\hp\source\repos\API\BankAppTask\obj\Debug\net5.0\BankAppTask.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\API\BankAppTask\bin\Debug\net5.0\BankAppTask.exe
+C:\Users\hp\source\repos\API\BankAppTask\bin\Debug\net5.0\BankAppTask.deps.json
+C:\Users\hp\source\repos\API\BankAppTask\bin\Debug\net5.0\BankAppTask.runtimeconfig.json
+C:\Users\hp\source\repos\API\BankAppTask\bin\Debug\net5.0\BankAppTask.runtimeconfig.dev.json
+C:\Users\hp\source\repos\API\BankAppTask\bin\Debug\net5.0\BankAppTask.dll
+C:\Users\hp\source\repos\API\BankAppTask\bin\Debug\net5.0\ref\BankAppTask.dll
+C:\Users\hp\source\repos\API\BankAppTask\bin\Debug\net5.0\BankAppTask.pdb
+C:\Users\hp\source\repos\API\BankAppTask\obj\Debug\net5.0\BankAppTask.dll
+C:\Users\hp\source\repos\API\BankAppTask\obj\Debug\net5.0\ref\BankAppTask.dll
+C:\Users\hp\source\repos\API\BankAppTask\obj\Debug\net5.0\BankAppTask.pdb
+C:\Users\hp\source\repos\API\BankAppTask\obj\Debug\net5.0\BankAppTask.genruntimeconfig.cache
+C:\Users\hp\Desktop\BankAppTask\bin\Debug\net5.0\BankAppTask.deps.json
+C:\Users\hp\Desktop\BankAppTask\bin\Debug\net5.0\BankAppTask.dll
+C:\Users\hp\Desktop\BankAppTask\bin\Debug\net5.0\ref\BankAppTask.dll
+C:\Users\hp\Desktop\BankAppTask\bin\Debug\net5.0\BankAppTask.pdb
+C:\Users\hp\Desktop\BankAppTask\obj\Debug\net5.0\BankAppTask.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\BankAppTask\obj\Debug\net5.0\BankAppTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\BankAppTask\obj\Debug\net5.0\BankAppTask.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BankAppTask\obj\Debug\net5.0\BankAppTask.AssemblyInfo.cs
+C:\Users\hp\Desktop\BankAppTask\obj\Debug\net5.0\BankAppTask.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BankAppTask\obj\Debug\net5.0\BankAppTask.dll
+C:\Users\hp\Desktop\BankAppTask\obj\Debug\net5.0\ref\BankAppTask.dll
+C:\Users\hp\Desktop\BankAppTask\obj\Debug\net5.0\BankAppTask.pdb
+C:\Users\kehin\Downloads\Week4Task\Week4Task\BankAppTask\obj\Debug\net5.0\BankAppTask.csproj.AssemblyReference.cache
+C:\Users\kehin\Downloads\Week4Task\Week4Task\BankAppTask\obj\Debug\net5.0\BankAppTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kehin\Downloads\Week4Task\Week4Task\BankAppTask\obj\Debug\net5.0\BankAppTask.AssemblyInfoInputs.cache
+C:\Users\kehin\Downloads\Week4Task\Week4Task\BankAppTask\obj\Debug\net5.0\BankAppTask.AssemblyInfo.cs
+C:\Users\kehin\Downloads\Week4Task\Week4Task\BankAppTask\obj\Debug\net5.0\BankAppTask.csproj.CoreCompileInputs.cache
+C:\Users\kehin\Downloads\Week4Task\Week4Task\BankAppTask\obj\Debug\net5.0\BankAppTask.dll
+C:\Users\kehin\Downloads\Week4Task\Week4Task\BankAppTask\obj\Debug\net5.0\BankAppTask.pdb
+C:\Users\kehin\Downloads\Week4Task\Week4Task\BankAppTask\bin\Debug\net5.0\BankAppTask.deps.json
+C:\Users\kehin\Downloads\Week4Task\Week4Task\BankAppTask\bin\Debug\net5.0\BankAppTask.dll
+C:\Users\kehin\Downloads\Week4Task\Week4Task\BankAppTask\bin\Debug\net5.0\BankAppTask.pdb
+C:\Users\kehin\Downloads\Week4Task\Week4Task\BankAppTask\obj\Debug\net5.0\refint\BankAppTask.dll
+C:\Users\kehin\Downloads\Week4Task\Week4Task\BankAppTask\obj\Debug\net5.0\ref\BankAppTask.dll
+C:\Users\hp\Desktop\Week4Task (1)\Week4Task\Week4Task\BankAppTask\bin\Debug\net5.0\BankAppTask.deps.json
+C:\Users\hp\Desktop\Week4Task (1)\Week4Task\Week4Task\BankAppTask\bin\Debug\net5.0\BankAppTask.dll
+C:\Users\hp\Desktop\Week4Task (1)\Week4Task\Week4Task\BankAppTask\bin\Debug\net5.0\ref\BankAppTask.dll
+C:\Users\hp\Desktop\Week4Task (1)\Week4Task\Week4Task\BankAppTask\bin\Debug\net5.0\BankAppTask.pdb
+C:\Users\hp\Desktop\Week4Task (1)\Week4Task\Week4Task\BankAppTask\obj\Debug\net5.0\BankAppTask.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Week4Task (1)\Week4Task\Week4Task\BankAppTask\obj\Debug\net5.0\BankAppTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Week4Task (1)\Week4Task\Week4Task\BankAppTask\obj\Debug\net5.0\BankAppTask.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Week4Task (1)\Week4Task\Week4Task\BankAppTask\obj\Debug\net5.0\BankAppTask.AssemblyInfo.cs
+C:\Users\hp\Desktop\Week4Task (1)\Week4Task\Week4Task\BankAppTask\obj\Debug\net5.0\BankAppTask.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Week4Task (1)\Week4Task\Week4Task\BankAppTask\obj\Debug\net5.0\BankAppTask.dll
+C:\Users\hp\Desktop\Week4Task (1)\Week4Task\Week4Task\BankAppTask\obj\Debug\net5.0\ref\BankAppTask.dll
+C:\Users\hp\Desktop\Week4Task (1)\Week4Task\Week4Task\BankAppTask\obj\Debug\net5.0\BankAppTask.pdb
